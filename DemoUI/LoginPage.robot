@@ -5,6 +5,7 @@ Test Teardown   Close Browser
 #Resource
 #Selenium
 
+
 *** Variables ***
 
 ${Error_Message_Login}  css:.alert-danger
