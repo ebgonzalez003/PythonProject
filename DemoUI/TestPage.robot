@@ -2,7 +2,7 @@
 Documentation   To Validate Loging form
 Library     SeleniumLibrary
 Library     Collections
-Library     Shop.py
+Library     ../customLibraries/Shop.py
 Test Setup  open the browser with the Mortgage payment url
 #Test Setup      open the browser with the url
 Suite Setup
